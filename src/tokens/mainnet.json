@@ -8,8 +8,8 @@
     "logoURI": "https://raw.githubusercontent.com/etm3/swap-default-token-list/master/icons/0x678Fa5e07AEbf02993B3A48E8be6E5170F231b67.png"
   },
   {
-    "name": "WETM3",
-    "symbol": "WETM3",
+    "name": "WETMP",
+    "symbol": "WETMP",
     "address": "0x678Fa5e07AEbf02993B3A48E8be6E5170F231b67",
     "chainId": 4,
     "decimals": 18

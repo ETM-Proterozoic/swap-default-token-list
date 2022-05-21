@@ -3,7 +3,7 @@ const mainnet = require('./tokens/mainnet.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'ETM3swap Default List',
+    'name': 'ETMPswap Default List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -13,7 +13,7 @@ module.exports = function buildList() {
     'tags': {},
     'logoURI': 'ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir',
     'keywords': [
-      'etm3wap',
+      'etmpwap',
       'default'
     ],
     tokens: [

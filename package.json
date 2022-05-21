@@ -1,7 +1,7 @@
 {
-  "name": "@etm3/default-token-list",
+  "name": "@etmp/default-token-list",
   "version": "1.0.1",
-  "description": "The ETM3Swap default token list",
+  "description": "The ETM-Proterozoic default token list",
   "main": "build/etm3swap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etm3/swap-default-token-list.git"
+    "url": "git+https://github.com/ETM-Proterozoic/swap-default-token-list.git"
   },
   "keywords": [
-    "etm3swap",
+    "ETM-Proterozoic",
     "default",
     "token",
     "list"
@@ -24,12 +24,12 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/etm3/swap-default-token-list/issues"
+    "url": "https://github.com/ETM-Proterozoic/swap-default-token-list/issues"
   },
-  "homepage": "https://github.com/etm3/swap-default-token-list#readme",
+  "homepage": "https://github.com/ETM-Proterozoic/swap-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@etm3/token-list": "^1.0.0",
+    "@etmp/token-list": "^1.0.0",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
