@@ -5,7 +5,7 @@
     "address": "0x022eE6E65d719574eb70D11E31E5171DeA1baFC4",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0x022eE6E65d719574eb70D11E31E5171DeA1baFC4.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDC.png"
   },
   {
     "name": "USDT",
@@ -13,7 +13,7 @@
     "address": "0xd23685FB217533B95A0f78aae1f0ea3967e12DcA",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0xd23685FB217533B95A0f78aae1f0ea3967e12DcA.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDT.png"
   },
   {
     "name": "WBTC",
@@ -21,7 +21,7 @@
     "address": "0xAF52bA958Ef5aeDEa6185a857e53D1A68bD467d7",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0xAF52bA958Ef5aeDEa6185a857e53D1A68bD467d7.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/BTC.png"
   },
   {
     "name": "WETMP",
@@ -29,7 +29,7 @@
     "address": "0x22Db09145F27c2C22B0624a201A01741f4E4556B",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0x22Db09145F27c2C22B0624a201A01741f4E4556B.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETMP.png"
   },
   {
     "name": "USDC",
@@ -37,7 +37,7 @@
     "address": "0x2a6A9AC9a7533D4721746fbd3D5c28e0F8e4397a",
     "chainId": 37,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0x2a6A9AC9a7533D4721746fbd3D5c28e0F8e4397a.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDC.png"
   },
   {
     "name": "USDT",
@@ -45,7 +45,7 @@
     "address": "0x5Fd09f185e3732FF9B32f4A2E62Cef574a25D30a",
     "chainId": 37,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0x5Fd09f185e3732FF9B32f4A2E62Cef574a25D30a.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDT.png"
   },
   {
     "name": "WBTC",
@@ -53,7 +53,7 @@
     "address": "0x5a40882275ceA4CdEf15dbE12f5E52F03BdD0192",
     "chainId": 37,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0x5a40882275ceA4CdEf15dbE12f5E52F03BdD0192.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/BTC.png"
   },
   {
     "name": "ETH",
@@ -61,7 +61,7 @@
     "address": "0x4E03d0454d435ae0Ea1F794d6354EE5cE1f40299",
     "chainId": 37,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0x4E03d0454d435ae0Ea1F794d6354EE5cE1f40299.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETH.png"
   },
   {
     "name": "ETMP",
@@ -69,7 +69,7 @@
     "address": "0xBABcC18129a112eE7Ee84B2C9A51a0d2AecAe289",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0xBABcC18129a112eE7Ee84B2C9A51a0d2AecAe289.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETM.png"
   },
   {
     "name": "WETMP",
@@ -77,6 +77,38 @@
     "address": "0xE1d731a9C7A8c599699f7E7c2d8b3e822fAABe76",
     "chainId": 37,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/0xE1d731a9C7A8c599699f7E7c2d8b3e822fAABe76.png"
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETMP.png"
+  },
+  {
+    "name": "ETH",
+    "symbol": "ETH",
+    "address": "0x2E1AA15B319ef5a270771F538561d0214F2224D5",
+    "chainId": 36,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETH.png"
+  },
+  {
+    "name": "WETMP",
+    "symbol": "WETMP",
+    "address": "0x6367b00bB18B72Be512efeB275E0f420f2203E11",
+    "chainId": 36,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETMP.png"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x94C27baBD5166b7AFBc49C5919CA2De57753b4FC",
+    "chainId": 36,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDC.png"
+  },
+  {
+    "name": "USDT",
+    "symbol": "USDT",
+    "address": "0x97B2B4EcF9F620d6bAA57E9095F82801461C8310",
+    "chainId": 36,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDT.png"
   }
 ]
