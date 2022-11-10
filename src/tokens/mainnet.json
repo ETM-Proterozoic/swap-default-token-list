@@ -2,32 +2,32 @@
   {
     "name": "USDC",
     "symbol": "USDC",
-    "address": "0x022eE6E65d719574eb70D11E31E5171DeA1baFC4",
-    "chainId": 4,
+    "address": "0xe23eFB40beB2a18B7c6a94889C46fCD9BCA1B0b0",
+    "chainId": 5,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDC.png"
   },
   {
     "name": "USDT",
     "symbol": "USDT",
-    "address": "0xd23685FB217533B95A0f78aae1f0ea3967e12DcA",
-    "chainId": 4,
+    "address": "0xB1b4A3a3118f42F9e9A5AA8ccf7D1B1E062D93c8",
+    "chainId": 5,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDT.png"
   },
   {
     "name": "WBTC",
     "symbol": "WBTC",
-    "address": "0xAF52bA958Ef5aeDEa6185a857e53D1A68bD467d7",
-    "chainId": 4,
+    "address": "0xcA1794e8e877328F8B50dd194fF4c395C8b5eeef",
+    "chainId": 5,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/BTC.png"
   },
   {
     "name": "WETMP",
     "symbol": "WETMP",
-    "address": "0x22Db09145F27c2C22B0624a201A01741f4E4556B",
-    "chainId": 4,
+    "address": "0x0819FE26Da71297d248Bd0b5033d089f7d2B01c9",
+    "chainId": 5,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETMP.png"
   },
@@ -35,7 +35,7 @@
     "name": "USDC",
     "symbol": "USDC",
     "address": "0x8F4F188De61212399B3dEB899F4d8E7d29cfFa9d",
-    "chainId": 37,
+    "chainId": 49,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDC.png"
   },
@@ -43,7 +43,7 @@
     "name": "USDT",
     "symbol": "USDT",
     "address": "0xa7Fb3ee6fb8C98F6000b55948205d8B8A6079F0d",
-    "chainId": 37,
+    "chainId": 49,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDT.png"
   },
@@ -51,7 +51,7 @@
     "name": "WBTC",
     "symbol": "WBTC",
     "address": "0xC5FA79bAb41D482Ad870398703ed3649316AD963",
-    "chainId": 37,
+    "chainId": 49,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/BTC.png"
   },
@@ -59,7 +59,7 @@
     "name": "ETH",
     "symbol": "ETH",
     "address": "0x13C843369242bA51A250df450ED0FB37D98e4951",
-    "chainId": 37,
+    "chainId": 49,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETH.png"
   },
@@ -75,7 +75,7 @@
     "name": "WETMP",
     "symbol": "WETMP",
     "address": "0x0eF806177337459f610573c52502ac64e61815ea",
-    "chainId": 37,
+    "chainId": 49,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETMP.png"
   },
@@ -83,7 +83,7 @@
     "name": "ETH",
     "symbol": "ETH",
     "address": "0x2E1AA15B319ef5a270771F538561d0214F2224D5",
-    "chainId": 36,
+    "chainId": 48,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETH.png"
   },
@@ -91,7 +91,7 @@
     "name": "WETMP",
     "symbol": "WETMP",
     "address": "0x6367b00bB18B72Be512efeB275E0f420f2203E11",
-    "chainId": 36,
+    "chainId": 48,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/ETMP.png"
   },
@@ -99,7 +99,7 @@
     "name": "USDC",
     "symbol": "USDC",
     "address": "0x94C27baBD5166b7AFBc49C5919CA2De57753b4FC",
-    "chainId": 36,
+    "chainId": 48,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDC.png"
   },
@@ -107,7 +107,7 @@
     "name": "USDT",
     "symbol": "USDT",
     "address": "0x97B2B4EcF9F620d6bAA57E9095F82801461C8310",
-    "chainId": 36,
+    "chainId": 48,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ETM-Proterozoic/swap-default-token-list/main/icons/USDT.png"
   }
